@@ -1,2 +1,2 @@
 # MLBasic
- A Machine Learning samplr project
+ A Machine Learning sandbox project
